@@ -3,6 +3,7 @@ GGIpkg(GoGetInfo Package) is a package for Golang language that allows you to us
 
 ## Install and Run
 ```bash
+// open the project you want
 go mod init theFr3Y
 go get -u https://github.com/theFr3Y/GGIpkg.git
 ````
