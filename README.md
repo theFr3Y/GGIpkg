@@ -24,17 +24,17 @@ func main() {
 
 ## All of methods:
 - All
--Country
--Org
--CountryCode
--Ration
--RationName
--Isp
--As
--City
--TimeZone
--Query
--Zip
--Lat
--Lon
--Status
+- Country
+- Org
+- CountryCode
+- Ration
+- RationName
+- Isp
+- As
+- City
+- TimeZone
+- Query
+- Zip
+- Lat
+- Lon
+- Status
