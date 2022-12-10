@@ -49,7 +49,7 @@ func CountryCode(addr string) {
 	fmt.Printf("%s", result["countryCode"])
 }
 
-func Ration(addr string) {
+func RationName(addr string) {
 	resp, _ := http.Get("http://ip-api.com/json/" + addr)
 
 	defer resp.Body.Close()
